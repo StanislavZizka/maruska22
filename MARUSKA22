@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="cs-cz">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="html.css" type="text/css" />
+    <title>FoodTrck</title>
+  </head>
+  <body>
+    <header>
+      <img
+        class="img"
+        src="FOODTRUCK.png"
+        alt="logo stránky"
+        title="Logo stránky"
+        width="450px"
+      />
+      <img
+        class="img"
+        src="wallpaper.png"
+        alt="logo stránky"
+        title="Logo stránky"
+        width="825px"
+      />
+
+      <nav>
+        <ul>
+          <li><a href="#">Domovská stránka</a></li>
+          <li><a href="NABIDKA.html">Nabídka</a></li>
+          <li><a href="Recenze.html">Ochutnej</a></li>
+          <li><a href="kdesenachazime.html">Kde se nacházíme</a></li>
+          <li><a href="kontakt2.html">Kontakt</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>      
+      <header>   
+          <img src="vlajka.jpg" alt="logo" title="VlajkaSlavoje" width="300px" height="410px"/></p>
+        <h2>Domovská stránka</h2>
+      </header> 
+    <div class="centrovani">
+      <section>
+        <h2>Definice</h2>
+        <p>
+          Food truck je velké motorové vozidlo (takový jako dodávka) nebo
+          přívěs, vybavený vařit, připravovat, podávat, a/nebo prodávat jídlo
+          [1][2]. Některé, včetně zmrzlinářských vozů, prodávají mražené nebo
+          balené potraviny; jiní mají kuchyňky na palubě a připravují jídlo od
+          začátku nebo ohřívají jídlo, které bylo připraveno v zděné komerční
+          kuchyni. Sendviče, hamburgery, hranolky a další regionální rychlé
+          občerstvení jsou běžné. Na počátku roku 2010, uprostřed fenoménu
+          pop-up restaurací, se staly obzvláště populární food trucky nabízející
+          gurmánskou kuchyni a různé speciality a etnické menu.[3] Food trucks
+          mohou také prodávat studené nápoje, jako je soda a voda. Food trucky,
+          spolu s potravinovými stánky a potravinovými vozíky, jsou hlavní
+          součástí pouličního potravinářského průmyslu, který každý den
+          obsluhuje odhadem 2,5 miliardy lidí.y
+        </p>
+        <h2>FoodTruck v USA</h2>
+        <p>
+          Ve Spojených státech je texaský chuckwagon předchůdcem amerického food
+          trucku. V pozdnějším 1800s, pasení dobytka z jihozápadu k trhům na
+          severu a východu udržovalo kravy na stopě celé měsíce v době [6]. V
+          roce 1866 „otec Texas Panhandle“, Charles Goodnight,[7] texaský
+          chovatel dobytka, vybavil robustní starý vůz armády Spojených států
+          vnitřními policemi a zásuvkami a zásobil jej kuchyňským nádobím,
+          jídlem a lékařskými potřebami. Jídlo sestávalo ze sušených fazolí,
+          kávy, kukuřičné mouky, mastné slaniny zabalené v plátně, slaného
+          vepřového, hovězího, obvykle sušeného nebo soleného, ​​a dalších
+          snadno konzervovatelných potravin. Vůz byl také zásoben sudem s vodou
+          a závěsem na podpalování dřeva k ohřevu a vaření jídla.[8][9] Dalším
+          raným příbuzným moderního food trucku je obědový vůz, jak jej navrhl
+          prodejce potravin Walter Scott v roce 1872. Scott vyřezal okna v malém
+          krytém vagónu, zaparkoval ho před novinovou kanceláří v Providence na
+          Rhode Islandu a prodával sendviče, koláče a káva tiskařům a novinářům.
+          V 80. letech 19. století vyráběl ve Worcesteru ve státě Massachusetts
+          bývalý obědový pultík Thomas H. Buckley. Představil různé modely, jako
+          je Owl a White House Cafe, s prvky, které zahrnovaly dřezy, ledničky a
+          sporáky, také barevná okna a další ozdoby.[10] Pozdější verze food
+          trucku byly mobilní kantýny, které vznikly koncem 50. let. Tyto
+          mobilní jídelny byly schváleny americkou armádou a fungovaly na
+          vojenských základnách států.[11] Mobilní nákladní vozy s jídlem,
+          přezdívané „plochí autobusy“ nebo „náklaďáky na střeva“, existují již
+          léta a obsluhují staveniště, továrny a další dělnická místa.[12] Ve
+          velkých městech Spojených států náklaďák s jídlem tradičně poskytoval
+          lidem, kteří jsou na cestách, prostředek k rychlému sousto za nízkou
+          cenu. Food trucky jsou vyhledávány nejen pro svou cenovou dostupnost,
+          ale také pro svou nostalgii; a jejich popularita stále stoupá.[13]
+          Během roku 2010 se ekonomické změny způsobené Velkou recesí,
+          technologickými faktory a pouličním jídlem které je "hip" nebo "chic",
+          spojily ke zvýšení počtu food trucků ve Spojených státech.[14][15]
+          Stavebnictví vysychalo, což vedlo k přebytku foodtrucků a propouštěli
+          kuchaře ze špičkových restaurací. Pro zkušené kuchaře najednou bez
+          práce se foodtruck zdál jasnou volbou a menší finanční investicí než
+          kamenná restaurace.[14][16] Kdysi běžnější v amerických pobřežních
+          velkoměstech jako New York City a Los Angeles, kamiony s gurmánským
+          jídlem se nyní nacházejí také na předměstích a v malých městech po
+          celé zemi.[17][18][19] Food trucky jsou také najímány pro speciální
+          události, jako jsou svatby, natáčení filmů a firemní setkání, a také
+          pro přepravu reklamy propagující společnosti a značky.[20]
+        </p>
+        <h2>Gurmánská nákladní auta</h2>
+        <p>
+          V roce 2011, USA Today poznamenal, že food trucky prodávající dražší
+          jídlo získávají na popularitě po celých Spojených státech, v rozporu s
+          běžným názorem, že food trucky jsou obvykle sešlé a nacházejí se na
+          staveništích.[21] V roce 2009 časopis New York poznamenal, že
+          foodtruck „do značné míry překonal svou klasifikaci plotic a nyní je
+          úctyhodným místem pro začínající kuchaře, kteří chtějí zahájit
+          kariéru.“[12] Menu těchto gurmánských náklaďáků pokrývá škálu etnické
+          a fusion kuchyně. . Často se zaměřují na omezená, ale kreativní jídla
+          za rozumné ceny a nabízejí zákazníkům možnost ochutnat jídlo, které by
+          jinak neměli. Nalezení výklenku se zdá být pro většinu nákladních
+          vozidel cestou k úspěchu. Zatímco jeden kamion se může specializovat
+          na výstřední hamburgery, jiný může sloužit pouze humřím rohlíkům.[22]
+          Gurmánské food trucky mohou také nabídnout jedinečný kulinářský
+          zážitek. S nárůstem tisíciletých strávníků se zážitkové stolování
+          stalo běžnějším, což nutí majitele restaurací a food trucků vytvářet
+          pro své zákazníky jedinečný zážitek. Vzhledem k tomu, že food trucky
+          jsou pojízdné, poskytuje to gurmánským náklaďákům výhodu, že si mohou
+          vzít své zkušenosti, kam se jim zlíbí.[22] Sledování food trucků bylo
+          usnadněno díky sociálním médiím, jako je Facebook a Twitter, kde lze
+          kdykoli najít oblíbený gurmánský vůz s aktualizacemi speciálů, novými
+          položkami menu a změnami umístění.[23] Food truck rally a food truck
+          parky jsou také stále na popularitě v USA. Na shromážděních mohou lidé
+          najít své oblíbené náklaďáky na jednom místě a také poskytnout
+          prostředek pro setkání různých kultur a najít společný základ pro
+          lásku k jídlu.[3][24][25] 31. srpna 2013 se v Tampě konala největší
+          rallye food trucků na světě, které se zúčastnilo 99 kamionů.[26] Rally
+          Tampa překonala svůj vlastní rekord tím, že se v roce 2014 sešlo 121
+          food trucků.[27] Chicago Food Truck Festival hostí každý rok přes 40
+          kamionů a během dvou dnů se v Chicagu zúčastní 60 000 hostů.[28] A
+          food truck parky, nabízející stálá umístění, se nacházejí v městských
+          a předměstských oblastech po celých USA.[17][29] Popularita food
+          trucků vedla k vytvoření asociací, které chrání a podporují jejich
+          obchodní práva, jako je Philadelphia Mobile Food Association.
+        </p>
+
+        <h2>BYZNYS</h2>
+        <p>
+          Food trucky podléhají stejnému rozsahu obav jako ostatní potravinářské
+          podniky. Obvykle vyžadují pevnou adresu, aby mohli přijímat dodávky
+          zásob. Pro přípravu jídla může být zapotřebí komerční kuchyně.
+          Existuje celá řada povolení k získání a zdravotní kód, který je třeba
+          dodržovat. Mzdové náklady a náklady na palivo tvoří významnou část
+          režie.[31][32] Právní definice a požadavky na food trucky se značně
+          liší podle země a lokality. Například v Torontu některé z požadavků
+          zahrnují pojištění podnikání a odpovědnosti, registraci provozovatele
+          užitkového vozidla pro nákladní vozidlo, povolení pro každou
+          provozovanou obec (v centru města, různá předměstí), osvědčení o
+          manipulaci s potravinami, příslušné řidičské průkazy pro řidiče,
+          asistentské průkazy pro asistenty a zdravotní prohlídka.[33] Vzhledem
+          k tomu, že rostoucí počet a popularita food trucků je tlačí do
+          potravinového mainstreamu, region od regionu, problémy s místními
+          zákonodárci a policií reagující na nové situace a zatlačování ze
+          strany kamenných restaurací ze strachu z konkurence, patří mezi
+          problémy, které je třeba řešit. prostřednictvím vytváření značné
+          obchodní nejistoty.[34][35][36] Chicago se dlouho drželo vyznamenání
+          jako jediné město ve Spojených státech, které neumožňovalo vaření
+          potravin na palubě, což vyžadovalo, aby nákladní vozy připravily jídlo
+          v komerční kuchyni, poté jídlo zabalily a označily a naložily do
+          ohřívače. V roce 2012 byly pod tlakem majitelů a příznivců food
+          trucků, včetně University of Chicago Law School, změněny předpisy,
+          které umožňují vaření na palubě, nicméně je kontroverzní, že food
+          trucky musí parkovat 200 stop od jakékoli restaurace, což prakticky
+          vylučuje rušná centra města (příklad potlačování, majitelé restaurací
+          lobující za městskou vládu).[37][38][39] V USA specializovaní
+          dodavatelé potravinových kamionů nabízejí komplexní start-upové
+          služby, které mohou kromě vybavených nákladních vozů zahrnovat vývoj
+          konceptu, školení a podporu podnikání.[40] Často je však pro nového
+          provozovatele smysluplnější si nákladní automobil pronajmout.[41] V
+          USA jsou food trucky průmyslem v hodnotě 1,2 miliardy dolarů.[42] Do
+          roku 2017 překonal americký potravinářský průmysl 2,7 miliardy
+          dolarů.[43] Rozšíření z jednoho nákladního vozidla na vozové parky a
+          maloobchodní prodejny se ukázalo jako možné. Výrobce gurmánských
+          zmrzlin Coolhaus se sídlem v Los Angeles se v roce 2009 rozrostl z
+          jednoho nákladního vozu na 11 nákladních vozů a vozíků, dvě výkladní
+          skříně a více než 2 500 maloobchodních partnerských prodejen do září
+          2014.[44][45] Libertariánský časopis Reason uvádí, že ve městech ve
+          Spojených státech podléhají nákladní vozy protekcionistickým
+          předpisům, které jim mají zabránit v soutěži s kamennými restauracemi.
+          Například v Chicagu nařízení zakazuje food truckům „...prodávat jídlo
+          do 200 stop od kamenných restaurací, a proto jim zakazuje provoz v
+          celém centru města“, což kritici nazývají „anti -pravidlo hospodářské
+          soutěže pro provozovatele potravinářských vozů.[46]
+        </p>
+        <div class="obrazek">
+          <img
+            src="foodtruck2.jpg"
+            alt="logo"
+            title="FoodTruck"
+            width="990px"
+            height="300px"
+          />
+        </div>
+        <aside>
+          <img
+            src="oteviracidoba.png"
+            alt="logo"
+            title="OtvíracíDoba"
+            width="200px"
+            height="400px"
+          />
+        </aside>
+        </article>
+      </section>
+      </div>
+    </div>
+  </body>
+</html>
