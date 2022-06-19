@@ -1,0 +1,294 @@
+.img {
+    display: inline-block;
+    margin-right: 1px;
+    margin-bottom: -60px;
+    vertical-align: top;
+}
+header{
+    background: url('POZADI.png') white;
+    width: 1890px;
+    border: solid 1px black;
+    border-radius: 10px;
+
+}
+.background2{ background:url('NABIDKA.png');
+    width: 1900x;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+h1 {
+    font-family: Arial rgb(255, 255, 255);
+    color: #60b0f4;
+    margin-bottom: 0px;
+    display: inline-block;
+    font-size: 70px;
+    text-align:center;
+}
+h2{
+    font-size: 1.8em;
+    text-shadow: 7px 7px 7px rgb(0, 0, 0);
+    text-align: center;
+    color: #60b0f4;
+}
+h3 {
+    font-family: Arial #f2d9d5;
+    color: #60b0f4;
+    margin-bottom: 0px;
+    display: inline-block;
+    font-size: 40px;
+    text-align:center;
+    background-color: #f2d9d5;
+}
+h4 {
+    font-family: Arial #f2d9d5;
+    color: #60b0f4;
+    margin-bottom: 0px;
+    display: inline-block;
+    font-size: 25px;
+    text-align:center;
+    background-color: brown;
+}
+nav {
+    float: left;
+    list-style-type: none;
+    overflow: hidden;
+    font-family: Arial;
+    height: 100px;
+   
+  }
+
+nav ul {
+    float: left;
+	list-style-type:none;
+    width: 1456px;
+	margin-left: 430px;
+	margin-top: -40px;
+	line-height: 100px;
+    background:url('POZADI.png');
+    border: solid 1px black;
+    border-radius: 10px;
+    
+}
+nav ul li{
+    float: left;
+    padding: 15px;
+    font-size:15px;
+    font-size: 20px;
+    margin-right: 132px;
+    margin-bottom: -30px;
+
+}
+nav a{
+    float: left;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    color: rgb(144, 26, 26);
+
+
+}
+
+nav ul li:hover{
+    float: left;
+    background-color: #000000;
+    box-shadow: 0px 0px 2px black;
+}
+
+p{
+    color: #60b0f4;
+    font-size: 24px;
+    margin: 2px;
+    font-family: Arial;
+    text-align: left;
+}
+
+.pozadi {background-color: rgb(37, 36, 36);}
+
+section {
+    border: solid 1px black;
+    border-radius: 10px;
+    float: left;
+    width: 1000px;
+    text-align: justify;
+    background-color: brown;
+    margin-top: -535px;
+    margin-left: 350px;
+    margin-right: 40px;
+    padding: 5px;
+    min-width: 1000px;  /* chyba nejspíš potřebuji to v body*/
+   
+    }  
+
+    .section1 {
+        border: solid 1px black;
+        border-radius: 10px;
+        float: left;
+        width: 1000px;
+        text-align: justify;
+        background-color: brown;
+        margin-top: -35px;
+        margin-left: 350px;
+        margin-right: 40px;
+        padding: 5px;
+        min-width: 1000px;  /* chyba nejspíš potřebuji to v body*/
+       
+        }  
+
+    body {
+        background-color: #f2d9d5;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        min-width: 1100px;  /* chyba nejspíš potřebuji to v body*/
+    
+    }
+
+aside{
+        float: right;
+        width: 485px;
+        height:520px;
+        background: brown;
+        color: white;
+        padding: 5px;
+        margin: -8px;
+        text-align: center;
+        margin-top: -3186px;
+        margin-right: -490px;
+        font-family: Arial, Helvetica, sans-serif;
+        border: solid 1px black;
+        border-radius: 10px;
+        min-width: 400px;  /* chyba nejspíš potřebuji to v body*/
+}
+
+.pozice { float:left;
+    padding: 5px;
+    font-size:15px;
+    font-size: 20px;
+    margin-right: 40px;
+    margin-bottom: 100px;}
+
+    .centrovani
+    {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .obrazek {     width: 400px;
+        float: left;
+    }
+    .form_settings
+{ margin: 15px 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 200px; 
+  text-align: left;}
+  
+.form_settings input, .form_settings textarea
+{ padding: 5px; 
+  width: 299px; 
+  font: 100% arial; 
+  border: 1px solid #E5E5DB; 
+  background: #FFF; 
+  color: #47433F;}
+  
+.form_settings .submit
+{ font: 100% arial; 
+  border: 1px solid; 
+  width: 99px; 
+  margin: 0 0 0 212px; 
+  height: 33px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #000; 
+  color: #FFF;}
+
+.form_settings textarea, .form_settings select
+{ font: 100% arial; 
+  width: 299px;}
+
+.form_settings select
+{ width: 310px;}
+
+.form_settings .checkbox
+{ margin: 4px 0; 
+  padding: 0; 
+  width: 14px;
+  border: 0;
+  background: none;}
+
+  #footer
+{ width: 898px;
+  font: normal 100% 'lucida sans unicode', arial, sans-serif;
+  height: 33px;
+  padding: 24px 0 5px 0;
+  text-align: center; 
+  background: transparent;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;}
+
+#footer a
+{ color: #000;
+  text-decoration: none;}
+
+#footer a:hover
+{ color: #000;
+  text-decoration: underline;}
+
+.nabidkabody{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.nabidkaimg{
+    width: 500px;
+    height: auto;
+    margin: 5px;
+}
+
+*{
+    box-sizing: border-box;
+}
+.column{
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+article header {
+    border: solid 1px black;
+    border-radius: 10px;
+    height: auto;
+    width: 350px;
+    text-align: center;
+    background-color: brown;
+    margin-top: 60px;
+    
+   
+}
+article header img{
+    border-radius: 30px;
+}
+article footer {
+    
+    float: left;
+    background-color: brown;
+    margin-top: 5px;
+    text-align: center;
+    font-size: small;
+}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:rgb(255, 255, 255);border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:rgb(255, 255, 255);border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+
+.centrovani {text-align : center;}

@@ -1,0 +1,25 @@
+
+header img{
+	float: left;
+	margin-top: 20px;
+	margin-right:20px;
+	
+}
+
+
+article{
+	width:600px; 
+	height: 200px;
+	margin-top: 30px;
+	margin-right:60px;
+	padding: 20px;
+
+}
+
+
+
+
+body {background-color: #E87EA1;
+	color: white;
+	font-family: Arial;}
+	
